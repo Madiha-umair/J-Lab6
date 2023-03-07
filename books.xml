@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE books SYSTEM "books.dtd">
+<books>
+    <book id="1">
+        <ISBN>3848483181</ISBN>
+        <title>XML Developer's Guide</title>
+        <year_published>2000</year_published>
+        <language>English</language>
+        <author>Gambardella, Matthew</author>
+    </book>
+    <book id="2">
+        <ISBN>3848483182</ISBN>
+        <title>Visual Studio 7: A Comprehensive Guide</title>
+        <year_published>2001</year_published>
+        <language>English</language>
+        <author>Galos, Mike</author>
+    </book>
+</books>
